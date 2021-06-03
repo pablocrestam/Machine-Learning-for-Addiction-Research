@@ -1,4 +1,4 @@
-**Practical foundations of machine learning for addiction research. Part I. Methods and techniques**
+# **Practical foundations of machine learning for addiction research. Part I. Methods and techniques**
 
 Pablo Cresta Morgado(1), Martín Carusso(1), Laura Alonso Alemany(2), Laura Aciona(1,3)
 
